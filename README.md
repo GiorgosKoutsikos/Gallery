@@ -20,7 +20,7 @@ I learned:
 - The basic structure of an HTML document
  - How to use CSS for layout and styling
    - Core concepts such as:
-   - - divs and classes
+     - divs and classes
      - positioning
        - flexbox / basic alignment
        - How to organize a simple front-end project
