@@ -18,11 +18,11 @@ I am aware that the project contains **some mistakes and non-optimal practices**
 
 I learned: 
 - The basic structure of an HTML document
-- - How to use CSS for layout and styling
-  - - Core concepts such as: - divs and classes
-    - - positioning
-      - - flexbox / basic alignment
-      - - How to organize a simple front-end project
+ - How to use CSS for layout and styling
+   - Core concepts such as: - divs and classes
+     - positioning
+       - flexbox / basic alignment
+       - How to organize a simple front-end project
         
 
 
@@ -30,10 +30,10 @@ I learned:
 
 
 ## 🚀 Future Improvements In the future, I would like to: 
-- - Improve the code structure and readability
-- - Make the website more responsive
-- - Apply better CSS practices
-- - Add JavaScript for interactivity 
+- Improve the code structure and readability
+  - Make the website more responsive
+  - Apply better CSS practices
+  - Add JavaScript for interactivity 
 
 
 
