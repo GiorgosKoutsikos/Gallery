@@ -19,7 +19,8 @@ I am aware that the project contains **some mistakes and non-optimal practices**
 I learned: 
 - The basic structure of an HTML document
  - How to use CSS for layout and styling
-   - Core concepts such as: - divs and classes
+   - Core concepts such as:
+   - - divs and classes
      - positioning
        - flexbox / basic alignment
        - How to organize a simple front-end project
