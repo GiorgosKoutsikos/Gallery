@@ -42,4 +42,4 @@ I learned:
 
 ## ℹ️ Note
 
-This project was created for **learning purposes only** and reflects my current skill level. Any feedback is welcome!
+This project was created for **learning purposes only**. Any feedback is welcome!
